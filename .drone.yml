@@ -1,0 +1,4 @@
+Build:
+  Image:PHP:latest
+Compose:
+  Image:httpd:latest
