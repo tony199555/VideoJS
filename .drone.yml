@@ -1,4 +1,5 @@
 Build:
-  Image:PHP:latest
+  Image: PHP:latest
 Compose:
-  Image:httpd:latest
+  WebServer:
+    Image: httpd:latest
